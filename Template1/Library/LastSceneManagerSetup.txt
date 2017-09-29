@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Joshua/Desktop/Unity Game Projects/Unity-FPS-Game/FPS/Assets/_Scenes/MainScene.unity
+  isLoaded: 1
+  isActive: 1
